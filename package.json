@@ -2,7 +2,7 @@
   "name": "express-simple-starter",
   "private": true,
   "scripts": {
-    "start": "node Database"
+    "start": "node index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
